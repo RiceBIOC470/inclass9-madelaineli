@@ -1,4 +1,10 @@
 % Inclass assignment 9
+% GB comments
+1) 100
+2) 100
+3) 100 Ratio in matches is miscalculated but will give credit because the question may be stated awkward. 
+4) 100
+Overall: 100
 
 % The accession number for human NOTCH1 mRNA is AF308602
 % 1. Read the information from this entry into matlab
